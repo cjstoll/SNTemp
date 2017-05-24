@@ -22,6 +22,8 @@
 ---
 <i>Dependencies are included and configured as part of the provided Update Set.</i>
 
+>Information about Third-Party APIs that must be installed for the widget to function.<br/>Follow the following example for formating of each dependancy:
+
 * HighCharts API (v 5.0.5 - Recommended)  w/Export and No Data plug-ins
   <br/>Latest version(s) available from [HighCharts.com](http://http://www.highcharts.com/products/highcharts/)
   <br/>Additional HighCharts Utility - [highcharts-ng](https://github.com/pablojim/highcharts-ng) - Angular Directive for HighCharts (__not used or distributed__)
