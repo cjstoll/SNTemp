@@ -1,7 +1,7 @@
 ## Code Level 
 > **NO, LOW, PRO**
 
-> If LOW or PRO code level - and additional - config.md - file is included as part of the repo and a link to it is added.
+> If LOW or PRO code level - and additional - config.md - file is included as part of the repo and a link to it is added.<br/>
 [Widget Configuration(s)](config.md)
 
 ## Description - Use Case
