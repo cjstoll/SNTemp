@@ -15,8 +15,10 @@
 
 [pe-bar-chart](https://github.com/platform-experience/serviceportal-widget-library/tree/master/highcharts/pe-bar-chart)
 
-## Additional Notes (not necessary if LOW/PRO code level)
-> FYI and 'Good to Know' information about the widget.  
+## Additional Information/Notes
+> FYI and 'Good to Know' information about the widget.
+
+> If LOW/PRO code then this information would be in the config.md and the section is not necessary.
 
 ### Platform Plug-in Dependencies 
 > If LOW/PRO code then this is in the config.md else guide user to what Platform Plug-ins must be activated for the widget to function.
