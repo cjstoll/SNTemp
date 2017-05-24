@@ -1,10 +1,8 @@
 ## Code Level 
-> **NO, LOW, MED, PRO**
+> **NO, LOW, PRO**
 
-> If Medium (MED) or Professional (PRO) code - then the following link is added.
-
-[Additional Configuration(s)](config.md)
-
+> If LOW or PRO code level - and additional - config.md - file is included as part of the repo and a link to it is added.
+[Widget Configuration(s)](config.md)
 
 ## Description - Use Case
 > Write a brief description/use case about the widget
@@ -16,7 +14,7 @@
 >Links (FQD) to widgets that provide similar functionality. Example:<br/>
 [pe-bar-chart](https://github.com/platform-experience/serviceportal-widget-library/tree/master/highcharts/pe-bar-chart)
 
-## Additional Notes 
-> FYI and 'Good to Know' information about the widget.
+## Additional Notes (not necessary if LOW/PRO code level)
+> FYI and 'Good to Know' information about the widget.  
 
 
