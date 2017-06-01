@@ -1,9 +1,3 @@
-## Code Level - NO, LOW, PRO
-
-> If LOW or PRO code level an additional - config.md - file is included as part of the repo and a link to it is added.<br/>
-
-[Widget Configuration(s)](config.md)
-
 ## Description - Use Case
 > Write a brief description/use case about the widget
 
@@ -18,13 +12,25 @@
 ## Additional Information/Notes
 > FYI and 'Good to Know' information about the widget.
 
-> If LOW/PRO code then this information would be in the config.md and the section is not necessary.
+### Developer/Code Notes 
+---
+> Expanded Use Case information, code modifications, notes, etc. - Any information about the widget needed to configure it for use on the Platform.
 
-### Platform Plug-in Dependencies 
-> If LOW/PRO code then this is in the config.md else guide user to what Platform Plug-ins must be activated for the widget to function.
+### Platform Dependencies
+---
+> Annotations about any of the following Platform Dependencies required for use of the widget.
 
-* Plugin A
-* Plugin B
+#### SN Plugin Support
+#### Table Definition(s)
+#### Other
+
+### Sample Data and Data Structures
+---
+<i>Sample data is used to create this widget. Comments/Annotations about sample data along with instructions for linking to REAL data can be found within the __client, server, or both__ scripting file(s).</i>
+
+#### Data Structures (JSON, etc) [if necessary] 
+
+> Sample date should not be listed here. It should only be commented and explained in the respective code files where defined.
 
 ### API Dependencies
 <i>Dependencies are included and configured as part of the provided Update Set.</i>
@@ -33,3 +39,7 @@
 * HighCharts API (v 5.0.5 - Recommended)  w/Export and No Data plug-ins
   <br/>Latest version(s) available from [HighCharts.com](http://http://www.highcharts.com/products/highcharts/)
   <br/>Additional HighCharts Utility - [highcharts-ng](https://github.com/pablojim/highcharts-ng) - Angular Directive for HighCharts (__not used or distributed__)
+
+### CSS/SASS Variables
+---
+> CSS/SASS Variables that are defined.
