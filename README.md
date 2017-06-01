@@ -30,11 +30,13 @@
 
 #### Data Structures (JSON, etc) [if necessary] 
 
-> Sample date should not be listed here. It should only be commented and explained in the respective code files where defined.
+> Sample data should not be listed here. It should only be commented and explained in the respective code files where defined.
+
+> Any data structure templates/examples should be displayed here.
 
 ### API Dependencies
 <i>Dependencies are included and configured as part of the provided Update Set.</i>
-> If LOW/PRO code then this is in the config.md else guide user to what Third-Party API must be installed for the widget to function. Reference and instruction about any dependancies (not widgets) being used.<br/>Follow the following example for formating of each dependancy:
+> Guide user to what Third-Party APIs must be installed for the widget to function. Reference and instruction about any dependancies (not widgets) being used.<br/>Follow the following example for formating of each dependancy:
 
 * HighCharts API (v 5.0.5 - Recommended)  w/Export and No Data plug-ins
   <br/>Latest version(s) available from [HighCharts.com](http://http://www.highcharts.com/products/highcharts/)
