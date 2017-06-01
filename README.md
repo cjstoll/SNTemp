@@ -1,7 +1,7 @@
-## Description - Use Case
+## Description - Use Case &#42;
 > Write a brief description/use case about the widget
 
-## Screenshots
+## Screenshots &#42;
 > Collection of images (4 or less)
 
 ## Similar Widgets
@@ -9,7 +9,7 @@
 
 [pe-bar-chart](https://github.com/platform-experience/serviceportal-widget-library/tree/master/highcharts/pe-bar-chart)
 
-## Additional Information/Notes
+## Additional Information/Notes 
 > FYI and 'Good to Know' information about the widget.
 
 ### Developer/Code Notes 
