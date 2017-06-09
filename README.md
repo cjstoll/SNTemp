@@ -3,7 +3,7 @@
 ## Description - Use Case
 > Write a brief description/use case about the widget
 
-## Screenshots &#42;
+## Screenshots
 > Collection of images (4 or less)
 
 ## Similar Widgets `When applicable`
