@@ -33,7 +33,7 @@ Widget Option Schema parameters:
 ## Platform Dependencies
 ---
 > Annotations about any of the following Platform Dependencies required for use of the widget.
-### SN Plugin Support
+#### SN Plugin Support
 
 #### Table Definition(s)
 
