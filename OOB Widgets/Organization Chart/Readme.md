@@ -14,17 +14,17 @@ The Organization Chart widget gets data from the Users table [sys_users].
 ---
 Widget Option Schema parameters:
 
-**Card Fields** JSON object identifing the Users table [sys_users] fields to be shown on the card
-**User Background Color** Color used for the Selected User's card background color.
-**Node Background Color** Color used for the Node cards' background color that do not represent the Selected User.
-**URL** URL to open on click
-**Table Layout** CSS inline style object for the styling of the table.
-**Row Layout** CSS inline style object for the styling of the table rows.
-**Line** CSS inline style object for the color of the line connecting the nodes.
-**Tree Layout** Style object for the configuration of the Organization Chart rendering.
-**Picture Layout** CSS inline style object for the styling of the avatar/picture displayed.
-**Node Layout** CSS inline style object for the styling of the nodes.
-**Page** Page ID used with the URL Option Schema parameter value `id={page}`
+**Card Fields** JSON object identifing the Users table [sys_users] fields to be shown on the card<br/>
+**User Background Color** Color used for the Selected User's card background color.<br/>
+**Node Background Color** Color used for the Node cards' background color that do not represent the Selected User.<br/>
+**URL** URL to open on click<br/>
+**Table Layout** CSS inline style object for the styling of the table.<br/>
+**Row Layout** CSS inline style object for the styling of the table rows.<br/>
+**Line** CSS inline style object for the color of the line connecting the nodes.<br/>
+**Tree Layout** Style object for the configuration of the Organization Chart rendering.<br/>
+**Picture Layout** CSS inline style object for the styling of the avatar/picture displayed.<br/>
+**Node Layout** CSS inline style object for the styling of the nodes.<br/>
+**Page** Page ID used with the URL Option Schema parameter value `id={page}`<br/>
 
 > Note: Color options can be in the form of color words (red,blue,azure,etc) or HEX values (#ff0000, #00ff00, #b4b4b4, etc).
 
